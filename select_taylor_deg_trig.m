@@ -29,7 +29,7 @@ end
 if nargin < 6 || isempty(prec), prec = class(A); end
 switch prec
     case 'double'
-        load theta_taylor_trig_double %%%%%%%%%%%%%%%%%%%%%%%%
+        load theta_taylor_trig_double
     case 'single'
         load theta_taylor_trig_single
     case 'half'
