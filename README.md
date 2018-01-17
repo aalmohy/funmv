@@ -1,4 +1,4 @@
-FUNMV   trigonometric and hyperbolic matrix functions times vectors
+FUNMV - computes trigonometric and hyperbolic matrix functions times vectors
 
    [C,S,s,m,mv,mvd] = FUNMV(t,A,B,FLAG,[],PREC) computes f(t*A)*B or
    f(t*SQRTM(A))B, where f is a trigonometric or hyperbolic matrix function
