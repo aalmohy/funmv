@@ -33,7 +33,7 @@ function [C,S,s,m,mv,mvd,unA] = funmv(t,A,b,flag,M,prec,shift,bal,full_term)
 %   it is C(:,1) + t*S(:,2), where [C,S] = funmv(t,A,[y0,y1],'cos.sinc.sqrt') 
 %   
 
-%   Reference: A. H. Al-Mohy, A New Algorithm for Computing the Action 
+%   Reference: A. H. Al-Mohy, A New Algorithm for Computing the Actions 
 %   of Trigonometric and Hyperbolic Matrix Functions
 
 %   Awad H. Al-Mohy, January 18, 2018.
