@@ -8,4 +8,7 @@ FUNMV - computes trigonometric and hyperbolic matrix functions times vectors
    
    Details on the underlying algorithms can be found in
    
-   A. H. Al-Mohy, "A New Algorithm for Computing the Actions of Trigonometric and Hyperbolic Matrix Functions", https://arxiv.org/pdf/1708.08360.pdf
+   A. H. Al-Mohy, "A Truncated Taylor Series Algorithm for Computing the Action of Trigonometric and Hyperbolic Matrix Functions
+
+
+Read More: https://epubs.siam.org/doi/abs/10.1137/17M1145227",
